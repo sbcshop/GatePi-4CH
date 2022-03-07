@@ -7,6 +7,8 @@
 <img src= "https://github.com/sbcshop/GatePi/blob/main/images/img1.png" />
 
 # You can control GatePi with the help of raspberry pi GUI, or you can also control through pc via GUI
+ <img src="https://github.com/sbcshop/GatePi/blob/main/images/img7.JPG" />
+ 
 # Working
 <img src="https://github.com/sbcshop/GatePi/blob/main/images/giff.gif" />
 
