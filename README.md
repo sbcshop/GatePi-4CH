@@ -16,9 +16,12 @@
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs13.JPG" />
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs1.JPG" />
   
-  * Run the application, when you run the application you see one folder named "imp" which is automatically generated.this contain your id and password
+  * Run the application, when you run the application you see one folder named "imp" which is automatically generated. this contains your id and password
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs2.JPG" />
   
+  * Change the jumperwire to USB-Lora(1), then connect device to laptop via USB cable
+   <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs15.JPG" />
+   <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs14.JPG" />
 
 
 ## Working
