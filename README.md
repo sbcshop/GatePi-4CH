@@ -46,7 +46,7 @@
   
 ### In Raspberry Pi
 All the things i written in the window part same this you need to do, in raspberry pi you need to run the this python file "Lora Home Automation.py".
-     <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs16.JPG" />
+     <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs17.JPG" />
      
 ## Working
   <img src="https://github.com/sbcshop/GatePi/blob/main/images/giff.gif" />
