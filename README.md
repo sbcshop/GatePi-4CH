@@ -30,11 +30,17 @@
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs4.JPG" />
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs5.JPG" />
    
-  * Now you can able to control the GatePi, by pressing the buttons, The configuration of the button is a single button ON/OFF switch. for example when you press button one then     relay 1 turn on, if you press button 1 again relay 1 turns off. 
+  * Now you can able to control the GatePi, by pressing the buttons, The configuration of the button is a single button ON/OFF switch. for example when you press button one then relay 1 
+    turns on, if you press button 1 again relay 1 turns off. 
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs6.JPG" />
    
-  * When you press "status of relay" button, the button colour changes to red, it means these relays are on
+  * When you press the "status of relay" button, the button color changes to red, which means these relays are on
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs12.JPG" />
+   
+  * You can also change the Relay transmission code, means when you press the button in GUI, then one encoded code or encoded string is send to receiver(GatePi). for this you       need to enter user name and password, at the same time you also need to write the the transmission code in the relay 1,2,3,4 entry box. this is not necessary, default encode     code is there, but you can also change, if you change this, you also need to change in the PICO code "main.py"
+  * <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs16.JPG" />
+  
+   
 
 
 ## Working
