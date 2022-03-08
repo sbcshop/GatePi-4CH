@@ -23,8 +23,15 @@
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs15.JPG" />
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs14.JPG" />
    
-  * After USB plugin, open device manager, go to Ports,then see port number , then port number write in application
+  * After USB plugin, open device manager, go to Ports, then see the port number, then port number write in the application
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs3.JPG" />
+
+  * Select the baudrate, and click on connect button
+   <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs4.JPG" />
+   <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs5.JPG" />
+   
+  * Now you can able to control the GatePi, by pressing the buttons
+   <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs6.JPG" />
 
 
 ## Working
