@@ -11,6 +11,10 @@
 
 ## How to start And Setup Lora Home Automation Application
 ### In Windows
+Download GatePi directory from github, and open window application folder, inside this folder you see one application name "Lora Home Automation"
+<img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs7.JPG" />
+<img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs13.JPG" />
+
 ## Working
 <img src="https://github.com/sbcshop/GatePi/blob/main/images/giff.gif" />
 
