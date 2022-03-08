@@ -37,15 +37,15 @@
   * When you press the "status of relay" button, the button color changes to red, which means these relays are on
      <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs12.JPG" />
    
-  * You can also change the Relay transmission code, which means when you press the button in GUI, then one encoded code or encoded string is sent to the receiver(GatePi). for       this, you need to enter the user name and password, at the same time you also need to write the transmission code in the relay 1,2,3,4 entry box.then click to "Login/Update     Relay Code" button this is not necessary, the default encode code is there, but you can also change it, if you change this, you also need to change in the PICO code         "main.py"
+  * You can also change the Relay transmission code, which means when you press the button in GUI, then one encoded code or encoded string is sent to the receiver(GatePi). for this, you need to enter the user name and password, at the same time you also need to write the transmission code in the relay 1,2,3,4 entry box. then click on the "Login/Update Relay Code" button.after pressing the button you see that all the entry box is empty or blank , this means encode code is sucessfully change. this is not necessary, the default encode code is there, but you can also change it if you change this, you also need to change in the PICO code   "main.py"
      <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs8.JPG" />
      <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs16.JPG" />
 
-  * If you forgot the password, then write user id in user id entry,and write new password in password entry then click to the "Forgot Password" button
+  * If you forgot the password, then write user id in user id entry, and write a new password in password entry then click to the "Forgot Password" button.after pressing the button you see that all the entry box is empty or blank , this means password is sucessfully change.
      <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs8.JPG" />
   
    
 ## Working
-     <img src="https://github.com/sbcshop/GatePi/blob/main/images/giff.gif" />
+  <img src="https://github.com/sbcshop/GatePi/blob/main/images/giff.gif" />
 
 
