@@ -6,7 +6,14 @@
 ## Pin Mapping
 <img src= "https://github.com/sbcshop/GatePi/blob/main/images/img1.png" />
 
+## Code
+  * You see "main.py" file. you need to save this file inside GatePi(RP2040)
+  * Rest the two folder is of Application(GUI),one is of window other is of raspberry pi
+    * Window application->open the app and follow below instruction, you need to connect one of them Pi Lora Hat or PICO Lora Expansion and RangePi(transmitter)
+    * Raspberry pi application->open "raspberry pi GUI" folder.run "Lora Home Automation.py" file, before this you need to put Pi Lora Hat(transmitter) 
+
 ## You can control GatePi with the help of raspberry pi GUI, or you can also control through pc via GUI
+In windows you can use PICO Lora Expansion, Pi Lora Hat and RangePi
 <img src="https://github.com/sbcshop/GatePi/blob/main/images/img7.JPG" />
 
 ## How to start And Setup Lora Home Automation Application
@@ -45,7 +52,7 @@
      <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs10.JPG" />
   
 ### In Raspberry Pi
-All the things i written in the window part same this you need to do, in raspberry pi you need to run the this python file "Lora Home Automation.py".
+All the things i have written in the window part same this you need to do, in raspberry pi you need to run the python file "Lora Home Automation.py".
      <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs17.JPG" />
      
 ## Working
