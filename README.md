@@ -30,8 +30,11 @@
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs4.JPG" />
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs5.JPG" />
    
-  * Now you can able to control the GatePi, by pressing the buttons, The configuration of the button are single button ON/OFF switch. for example when you press button one then     relay 1 turn on, if you press button 1 again the relay 1 turn off. 
+  * Now you can able to control the GatePi, by pressing the buttons, The configuration of the button is a single button ON/OFF switch. for example when you press button one then     relay 1 turn on, if you press button 1 again relay 1 turns off. 
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs6.JPG" />
+   
+  * When you press "status of relay" button, the button colour changes to red, it means these relays are on
+   <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs12.JPG" />
 
 
 ## Working
