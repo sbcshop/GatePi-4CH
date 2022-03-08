@@ -19,9 +19,12 @@
   * Run the application, when you run the application you see one folder named "imp" which is automatically generated. this contains your id and password
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs2.JPG" />
   
-  * Change the jumperwire to USB-Lora(1), then connect device to laptop via USB cable
+  * Change the jumperwire to USB-Lora(1),and do not remove jumper wires from M0, M1, then connect device to laptop via USB cable
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs15.JPG" />
    <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs14.JPG" />
+   
+  * After USB plugin, open device manager, go to Ports,then see port number , then port number write in application
+   <img src="https://github.com/sbcshop/GatePi/blob/main/images/imgs3.JPG" />
 
 
 ## Working
