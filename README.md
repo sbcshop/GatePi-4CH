@@ -10,6 +10,7 @@
 <img src="https://github.com/sbcshop/GatePi/blob/main/images/img7.JPG" />
 
 ## How to start And Setup Lora Home Automation Application
+### In Windows
 ## Working
 <img src="https://github.com/sbcshop/GatePi/blob/main/images/giff.gif" />
 
