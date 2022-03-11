@@ -17,6 +17,7 @@ In windows, you can use PICO Lora Expansion, Pi Lora Hat and RangePi
 <img src="https://github.com/sbcshop/GatePi/blob/main/images/img7.JPG" />
 
 ## GatePi Instruction Manual
+   For manual download the GitHub directory GatePi, in this directory you see "GatePi instruction manual.pdf"
    * In this manual you see:-
       * how to setup GatePi 
       * How to use "LoRa Home Automation Application(App)
