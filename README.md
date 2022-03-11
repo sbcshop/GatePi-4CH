@@ -16,6 +16,7 @@
 In windows you can use PICO Lora Expansion, Pi Lora Hat and RangePi
 <img src="https://github.com/sbcshop/GatePi/blob/main/images/img7.JPG" />
 
+## GatePi Instruction Manual
 
      
 ## Working
