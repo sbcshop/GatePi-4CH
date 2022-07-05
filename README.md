@@ -11,6 +11,8 @@
   * Rest the two folders is of Application(GUI), one is of window other is of raspberry pi
     * Window application->open the app and follow the below instruction, you need to connect one of them Pi Lora Hat or PICO Lora Expansion and RangePi(transmitter)
     * Raspberry pi application->open "raspberry pi GUI" folder.run "Lora Home Automation.py" file, before this, you need to put Pi Lora Hat(transmitter) 
+    
+## **rangepi__transmitter_app_control.py** - save this code as main in RangePi and connect RangePi to laptop, open application and control GatePi(For RangePi)
 
 ## You can control GatePi with the help of raspberry pi GUI, or you can also control through pc via GUI
 In windows, you can use PICO Lora Expansion, Pi Lora Hat and RangePi
