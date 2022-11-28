@@ -27,5 +27,5 @@ In windows, you can use PICO Lora Expansion, Pi Lora Hat and RangePi
      
 ## Working
   <img src="https://github.com/sbcshop/GatePi/blob/main/images/giff.gif" />
-
+ 
 
