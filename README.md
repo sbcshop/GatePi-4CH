@@ -25,7 +25,28 @@ In windows, you can use PICO Lora Expansion, Pi Lora Hat and RangePi
       * How to use "LoRa Home Automation Application(App)
 
      
-## Working
-  <img src="https://github.com/sbcshop/GatePi/blob/main/images/giff.gif" />
+## Working With GatePi 4Ch
+
+For working with this board you will need two or more than two loara product, it can be same products or may be our other LoRa products to establish the communication between them.
+
+## Our Other LoRa Products
+
+* GatePi 4Channel*
+* GatePi 8channel
+* RangePi(USB Dongle)
+* LoRA HAT for RPi
+* PICO LoRa Expansion
+
+You will simply need to make one device to work as reciever and another one is as a transmitter. So that you can communicate to each other and this can be done with any of our LoRa products mentioned above. For working with our other products please follow the below link:
+
+* GatePi 4Channel* (Itself)
+* GatePi 8channel
+https://github.com/sbcshop/GatePi-8CH
+* RangePi
+https://github.com/sbcshop/RangePi
+* LoRA HAT for RPi
+https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi
+* PICO LoRa Expansion
+https://github.com/sbcshop/PICO-LORA-EXPANSION
  
 
