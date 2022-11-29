@@ -48,5 +48,6 @@ https://github.com/sbcshop/RangePi
 https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi
 * PICO LoRa Expansion
 https://github.com/sbcshop/PICO-LORA-EXPANSION
- 
+
+### Note: Every time you choose the mode of transmit device the transmit code of that device should be run in it and reciever code will always same.Note: Every time you choose the mode of transmit device the transmit code of that device should be run in it and reciever code will always same.
 
