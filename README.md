@@ -6,6 +6,9 @@ GatePi is a low-power consumption data transmission board, that comes with an on
 ## Pin Mapping
 <img src= "https://github.com/sbcshop/GatePi/blob/main/images/img1.png" />
 
+## DIP Switch
+It is four way slide switch used select direct cummunication with LoRa module or communication through RP2040 via micro-USB. The 1 and 2 should have in "ON" postion, 3 and 4 should be in "OFF" position for working with our Example codes.
+
 ## Code
   * You see the "main.py" file. you need to save this file inside GatePi(RP2040)
   * Rest the two folders is of Application(GUI), one is of window other is of raspberry pi
