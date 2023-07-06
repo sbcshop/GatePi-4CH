@@ -86,6 +86,7 @@ https://github.com/sbcshop/PICO-LORA-EXPANSION
  
 ### Step 3: Write the values which you need to configure, for eg: i configure channel and baudrate, after that press write button
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_13.png" />
+  
   **-> For changing frequency using Software for 868MHz & 915MHz LoRa module:**
   Frequency = 850.125MHz + CH*1MHz
   
